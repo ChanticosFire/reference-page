@@ -198,8 +198,8 @@ c = 2×2 complex
 
 ### 输入命令
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [ans](https://ww2.mathworks.cn/help/matlab/ref/ans.html) | 最近计算的答案
 [clc](https://ww2.mathworks.cn/help/matlab/ref/clc.html) | 清空命令行窗口
 [diary](https://ww2.mathworks.cn/help/matlab/ref/diary.html) | 将命令行窗口文本记录到日志文件中
@@ -221,8 +221,8 @@ c = 2×2 complex
 
 创建和合并数组
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [zeros](https://ww2.mathworks.cn/help/matlab/ref/zeros.html) | 创建全零数组
 [ones](https://ww2.mathworks.cn/help/matlab/ref/ones.html) | 创建全部为 1 的数组
 [rand](https://ww2.mathworks.cn/help/matlab/ref/rand.html) | 均匀分布的随机数
@@ -239,8 +239,8 @@ c = 2×2 complex
 
 创建网格
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [linspace](https://ww2.mathworks.cn/help/matlab/ref/linspace.html) | 生成线性间距向量
 [logspace](https://ww2.mathworks.cn/help/matlab/ref/logspace.html) | 生成对数间距向量
 [freqspace](https://ww2.mathworks.cn/help/matlab/ref/freqspace.html) | 频率响应的频率间距
@@ -249,8 +249,8 @@ c = 2×2 complex
 
 确定大小、形状和排序
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [length](https://ww2.mathworks.cn/help/matlab/ref/length.html) | 最大数组维度的长度
 [size](https://ww2.mathworks.cn/help/matlab/ref/size.html) | 数组大小
 [ndims](https://ww2.mathworks.cn/help/matlab/ref/double.ndims.html) | 数组维度数目
@@ -266,8 +266,8 @@ c = 2×2 complex
 
 重构和重新排列
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [sort](https://ww2.mathworks.cn/help/matlab/ref/sort.html) | 对数组元素排序
 [sortrows](https://ww2.mathworks.cn/help/matlab/ref/double.sortrows.html) | 对矩阵行或表行进行排序
 [flip](https://ww2.mathworks.cn/help/matlab/ref/flip.html) | 翻转元素顺序
@@ -285,8 +285,8 @@ c = 2×2 complex
 
 索引
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [colon](https://ww2.mathworks.cn/help/matlab/ref/colon.html) | 向量创建、数组下标和 <code class="literal">for</code> 循环迭代
 [end](https://ww2.mathworks.cn/help/matlab/ref/end.html) | 终止代码块或指示最大数组索引
 [ind2sub](https://ww2.mathworks.cn/help/matlab/ref/ind2sub.html) | 将线性索引转换为下标
@@ -297,8 +297,8 @@ c = 2×2 complex
 
 创建数值变量
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [double](https://ww2.mathworks.cn/help/matlab/ref/double.html) | 双精度数组
 [single](https://ww2.mathworks.cn/help/matlab/ref/single.html) | 单精度数组
 [int8](https://ww2.mathworks.cn/help/matlab/ref/int8.html) | 8 位有符号整数数组
@@ -312,15 +312,15 @@ c = 2×2 complex
 
 在数值类型之间转换
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [cast](https://ww2.mathworks.cn/help/matlab/ref/cast.html) | 将变量转换为不同的数据类型
 [typecast](https://ww2.mathworks.cn/help/matlab/ref/typecast.html) | 在不更改基础数据的情况下转换数据类型
 
 查询类型和值
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [allfinite](https://ww2.mathworks.cn/help/matlab/ref/allfinite.html") | Determine if all array elements are finite
 [anynan](https://ww2.mathworks.cn/help/matlab/ref/anynan.html") | Determine if any array element is NaN
 [isinteger](https://ww2.mathworks.cn/help/matlab/ref/isinteger.html) | 确定输入是否为整数数组
@@ -333,8 +333,8 @@ c = 2×2 complex
 
 数值范围
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [eps](https://ww2.mathworks.cn/help/matlab/ref/eps.html) | 浮点相对精度
 [flintmax](https://ww2.mathworks.cn/help/matlab/ref/flintmax.html) | 浮点格式的最大连续整数
 [Inf](https://ww2.mathworks.cn/help/matlab/ref/inf.html) | 创建所有值均为 `Inf` 的数组
@@ -363,8 +363,8 @@ c = 2×2 complex
 
 ### 字符串数组
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [string](https://ww2.mathworks.cn/help/matlab/ref/string.html) | 字符串数组
 [strings](https://ww2.mathworks.cn/help/matlab/ref/strings.html) | 创建不包含字符的字符串数组
 [join](https://ww2.mathworks.cn/help/matlab/ref/join.html) | 合并字符串
@@ -372,8 +372,8 @@ c = 2×2 complex
 
 ### 字符数组
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [char](https://ww2.mathworks.cn/help/matlab/ref/char.html) | 字符数组
 [cellstr](https://ww2.mathworks.cn/help/matlab/ref/cellstr.html) | 转换为字符向量元胞数组
 [blanks](https://ww2.mathworks.cn/help/matlab/ref/blanks.html) | 创建空白字符数组
@@ -381,8 +381,8 @@ c = 2×2 complex
 
 ### 字符或字符串数组
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [compose](https://ww2.mathworks.cn/help/matlab/ref/compose.html) | 将数据格式化为多个字符串
 [sprintf](https://ww2.mathworks.cn/help/matlab/ref/sprintf.html) | 将数据格式化为字符串或字符向量
 [strcat](https://ww2.mathworks.cn/help/matlab/ref/strcat.html) | 水平串联字符串
@@ -399,8 +399,8 @@ c = 2×2 complex
 
 ### 字符或字符串 - 在数值和字符串之间转换
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [double](https://ww2.mathworks.cn/help/matlab/ref/double.html) | 双精度数组
 [string](https://ww2.mathworks.cn/help/matlab/ref/string.html) | 字符串数组
 [str2double](https://ww2.mathworks.cn/help/matlab/ref/str2double.html) | 将字符串转换为双精度值
@@ -411,8 +411,8 @@ c = 2×2 complex
 
 数据类型
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [ischar](https://ww2.mathworks.cn/help/matlab/ref/ischar.html) | 确定输入是否为字符数组
 [iscellstr](https://ww2.mathworks.cn/help/matlab/ref/iscellstr.html) | 确定输入是否为字符向量元胞数组
 [isstring](https://ww2.mathworks.cn/help/matlab/ref/isstring.html) | 确定输入是否为字符串数组
@@ -420,8 +420,8 @@ c = 2×2 complex
 
 文本属性
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [strlength](https://ww2.mathworks.cn/help/matlab/ref/strlength.html) | 字符串长度
 [isstrprop](https://ww2.mathworks.cn/help/matlab/ref/isstrprop.html) | 确定输入字符串中的哪些字符属于指定类别
 [isletter](https://ww2.mathworks.cn/help/matlab/ref/isletter.html) | 确定哪些字符为字母
@@ -432,8 +432,8 @@ c = 2×2 complex
 
 查找
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [contains](https://ww2.mathworks.cn/help/matlab/ref/contains.html) | 确定字符串中是否有模式
 [matches](https://ww2.mathworks.cn/help/matlab/ref/matches.html) | 确定模式是否与字符串匹配
 [count](https://ww2.mathworks.cn/help/matlab/ref/count.html) | 计算字符串中模式的出现次数
@@ -444,22 +444,22 @@ c = 2×2 complex
 
 替换
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [replace](https://ww2.mathworks.cn/help/matlab/ref/replace.html) | 查找并替换一个或多个子字符串
 [replaceBetween](https://ww2.mathworks.cn/help/matlab/ref/replacebetween.html) | 替换起点和终点之间的子字符串
 [strrep](https://ww2.mathworks.cn/help/matlab/ref/strrep.html) | 查找并替换子字符串
 
 ### 字符串匹配模式 - 构建模式
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [pattern](https://ww2.mathworks.cn/help/matlab/ref/pattern.html) | 用于搜索和匹配文本的模式
 
 ### 字符串匹配模式 - 字符匹配模式
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [alphanumericsPattern](https://ww2.mathworks.cn/help/matlab/ref/alphanumericspattern.html) | 匹配字母和数字字符
 [characterListPattern](https://ww2.mathworks.cn/help/matlab/ref/characterlistpattern.html) | 匹配列表中的字符
 [digitsPattern](https://ww2.mathworks.cn/help/matlab/ref/digitspattern.html) |  匹配数字字符
@@ -469,8 +469,8 @@ c = 2×2 complex
 
 ### 字符串匹配模式 - 模式搜索规则
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [optionalPattern](https://ww2.mathworks.cn/help/matlab/ref/optionalpattern.html) | 使模式匹配可选
 [possessivePattern](https://ww2.mathworks.cn/help/matlab/ref/possessivepattern.html) | 匹配模式而不回溯
 [caseSensitivePattern](https://ww2.mathworks.cn/help/matlab/ref/casesensitivepattern.html) | 以区分大小写的方式匹配模式
@@ -495,15 +495,15 @@ c = 2×2 complex
 
 ### 字符串匹配模式 - 自定义模式显示
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [maskedPattern](https://ww2.mathworks.cn/help/matlab/ref/maskedpattern.html) | 具有指定显示名称的模式
 [namedPattern](https://ww2.mathworks.cn/help/matlab/ref/namedpattern.html) | 指定命名模式
 
 ### 字符串匹配模式 - 正则表达式
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [regexp](https://ww2.mathworks.cn/help/matlab/ref/regexp.html) | 匹配正则表达式（区分大小写）
 [regexpi](https://ww2.mathworks.cn/help/matlab/ref/regexpi.html) | 匹配正则表达式（不区分大小写）
 [regexprep](https://ww2.mathworks.cn/help/matlab/ref/regexprep.html) | 使用正则表达式替换文本
@@ -512,8 +512,8 @@ c = 2×2 complex
 
 ### 字符串匹配模式 - 联接和拆分
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [join](https://ww2.mathworks.cn/help/matlab/ref/join.html) | 合并字符串
 [plus](https://ww2.mathworks.cn/help/matlab/ref/plus.html) | 添加数字，追加字符串
 [split](https://ww2.mathworks.cn/help/matlab/ref/split.html) | 在分隔符处拆分字符串
@@ -529,8 +529,8 @@ c = 2×2 complex
 ### 字符串编辑
 <!--rehype:wrap-class=row-span-2-->
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [erase](https://ww2.mathworks.cn/help/matlab/ref/erase.html) | 删除字符串内的子字符串
 [eraseBetween](https://ww2.mathworks.cn/help/matlab/ref/erasebetween.html) | 删除起点和终点之间的子字符串
 [extract](https://ww2.mathworks.cn/help/matlab/ref/extract.html) | 从字符串中提取子字符串
@@ -550,8 +550,8 @@ c = 2×2 complex
 
 ### 字符串比较
 
-:- | :- | :-
-:- | :- | :-
+:- | :-
+:- | :-
 [matches](https://ww2.mathworks.cn/help/matlab/ref/matches.html) | 确定模式是否与字符串匹配
 [strcmp](https://ww2.mathworks.cn/help/matlab/ref/strcmp.html) | 比较字符串
 [strcmpi](https://ww2.mathworks.cn/help/matlab/ref/strcmpi.html) | 比较字符串（不区分大小写）
@@ -1409,6 +1409,402 @@ true 或 false 条件
 [thingSpeakRead](https://ww2.mathworks.cn/help/matlab/ref/thingspeakread.html) | 读取存储在 `ThingSpeak` 通道中的数据
 [thingSpeakWrite](https://ww2.mathworks.cn/help/matlab/ref/thingspeakwrite.html) | 将数据写入 `ThingSpeak` 通道
 <!--rehype:className=style-list-->
+
+## 面向对象基础
+
+MATLAB 支持面向对象编程，虽然很少有人使用。
+
+MATLAB 的自定义类型可以分成全值类和句柄类，它们的区别在于句柄类相当于指针，赋值时只会进行浅拷贝，全值类总是会进行深拷贝。下面的例子只涉及全值类。
+
+### 简单例子
+
+一个简单的 `point2d` 类（文件名必须与类名相同：`point2d.m` ）
+
+```matlab
+classdef point2d
+    properties % 属性
+        x
+        y
+    end
+    methods % 方法
+        function obj = point2d(x0,y0) % 构造方法
+            if nargin == 0
+                obj.x = 0;
+                obj.y = 0;
+            elseif nargin == 2
+                obj.x = x0;
+                obj.y = y0;
+            else
+                error("unsupported arguments")
+            end
+        end
+        function obj = normalize(obj) % 普通方法
+            % obj 相当于 Python 的 self
+            r = sqrt(obj.x^2+obj.y^2);
+            obj.x = obj.x/r;
+            obj.y = obj.y/r;
+        end
+    end
+end
+```
+
+使用例如
+
+```matlab
+a = point2d(3,4);
+fprintf('(%f, %f)\n',a.x,a.y);
+% (3.000000, 4.000000)
+
+b = a.normalize();
+fprintf('(%f, %f)\n',b.x,b.y);
+% (0.600000, 0.800000)
+```
+
+### 属性
+
+可以给属性提供默认值
+
+```matlab
+classdef point2d
+    properties
+        x = cos(pi/12);
+        y = sin(pi/12);
+    end
+    ...
+end
+```
+
+默认值不需要是常量，可以是任何表达式
+
+```matlab
+classdef demo
+    properties
+        time_stamp = date;
+    end
+    ...
+end
+```
+
+属性的默认值在类被加载时会被计算，并不会在每一个对象创建时重新计算。
+
+可以将属性标记为只读（`Constant`），不允许对其进行修改。
+
+```matlab
+classdef demo
+    properties(Constant)
+        R = pi/180;
+    end
+    ...
+end
+```
+
+尝试修改会报错
+
+```matlab
+s = demo();
+disp(s.R)
+
+s.R = 100; % error
+```
+
+### 构造方法和普通方法
+
+#### 构造方法
+
+与类同名的方法称为构造方法。MATLAB只允许创建一个构造方法，但是我们通过nargin判断参数个数，并据此实现不同的创建行为，例如
+
+```matlab
+function obj = point2d(x0,y0)
+    if nargin == 0
+        obj.x = 0;
+        obj.y = 0;
+    elseif nargin == 2
+        obj.x = x0;
+        obj.y = y0;
+    else
+        error("unsupported arguments")
+    end
+end
+```
+
+例如
+
+```matlab
+s1 = point2d(1,2);
+s2 = point2d();
+s3 = point2d;
+```
+
+#### 普通方法
+
+类的普通方法的第一个参数是对象自身，并且习惯上使用obj表示。
+
+```matlab
+classdef demo
+    properties
+        x = 100;
+    end
+    methods
+        function z = compute(obj,y)
+            z = obj.x + y;
+        end
+    end
+end
+```
+
+普通方法可以通过对象或类调用
+
+```matlab
+s = demo();
+s.compute(10); % 110
+compute(s,20); % 120
+```
+
+### 静态方法
+
+MATLAB 提供了静态方法，在定义时标记为 `Static`，静态方法没有`obj`参数，不绑定任何的对象，不能访问类对象的普通属性，但是可以访问类的常量属性。
+
+例如
+
+```matlab
+classdef demo
+    methods(Static) % 静态方法
+        function hello()
+            disp("hello,world!")
+        end
+    end
+end
+```
+
+使用例如
+
+```matlab
+>> demo.hello()
+hello,world!
+>> s = demo();
+>> s.hello()
+hello,world!
+```
+
+### 重写disp方法
+
+可以通过提供`disp`方法来定制自定义类型调用`disp`函数时的行为，例如
+
+```matlab
+classdef point2d
+    properties
+        x = 0
+        y = 0
+    end
+    methods
+        function disp(obj)
+            fprintf("(%f,%f)",obj.x,obj.y);
+        end
+    end
+end
+```
+
+提供`disp`函数后的输出
+
+```matlab
+>> s = point2d();
+>> disp(s)
+
+    (0.000000,0.000000)
+```
+
+作为对比，默认情况下的输出
+
+```matlab
+>> s = point2d();
+>> disp(s)
+  point2d with properties:
+
+    x: 0
+    y: 0
+    R: 0.0175
+```
+
+### 重载运算符
+
+MATLAB 支持自定义类型对运算符的重载，例如`plus`方法对应加法。
+
+```matlab
+classdef point2d
+    properties
+        x
+        y
+    end
+    methods
+        function obj = point2d(x0,y0)
+            % same as before
+        end
+        function result = plus(obj, other)
+            result = point2d(obj.x + other.x, obj.y + other.y);
+        end
+    end
+end
+```
+
+例如
+
+```matlab
+>> a = point2d(1,0);
+>> b = point2d(0,2);
+>> a + b
+ans =
+  point2d with properties:
+
+    x: 1
+    y: 2
+```
+
+### 属性和方法的权限
+
+MATLAB 提供了比 C++ 和 Java 更加精细的访问权限控制，默认情况下所有的属性和方法都是public。
+
+基本的三种权限例如
+
+```matlab
+classdef demo
+    properties % public
+        x1
+    end
+    properties(Access = protected)
+        x2
+    end
+    properties(Access = privated)
+        x3
+    end
+
+    methods % public
+        function h1(obj)
+        end
+    end
+    methods(Access = protected)
+        function h2(obj)
+        end
+    end
+    methods(Access = privated)
+        function h3(obj)
+        end
+    end
+end
+```
+
+MATLAB对属性提供了更精细的访问权限，可以将其拆分为读权限和写权限，例如
+
+```matlab
+classdef demo
+    properties(SetAccess = private)
+        x1
+    end
+    properties(SetAccess = private, GetAccess = protected)
+        x2
+    end
+end
+```
+
+### 类的继承
+
+MATLAB 使用 `<` 表示继承关系。
+
+基类
+
+```matlab
+classdef demo
+    properties
+        Value
+    end
+    methods
+        function obj = demo(val)
+            if nargin > 0
+                obj.Value = val;
+            else
+                obj.Value = 0;
+            end
+        end
+
+        function displayValue(obj)
+            disp(['Value: ', num2str(obj.Value)]);
+        end
+    end
+end
+```
+
+派生类
+
+```matlab
+classdef demo2 < demo
+    properties
+        ExtraValue
+    end
+
+    methods
+        function obj = demo2(val, extraVal)
+            obj = obj@demo(val); % 调用基类构造方法
+            if nargin > 1
+                obj.ExtraValue = extraVal;
+            else
+                obj.ExtraValue = 0;
+            end
+        end
+
+        function displayValue(obj)
+            displayValue@demo(obj); % 调用基类的同名函数
+            disp(['Extra Value: ',num2str(obj.ExtraValue)]);
+        end
+    end
+end
+```
+
+### 补充
+
+#### 抽象方法和抽象类
+
+MATLAB提供了抽象方法和抽象类。
+
+抽象基类（不可实例化）
+
+```matlab
+classdef demo
+    methods(Abstract) % 抽象方法
+        hello(obj) % 只有接口，没有实现
+    end
+end
+```
+
+继承自抽象基类的派生类（实现了抽象方法，可以实例化）
+
+```matlab
+classdef demo2 < demo
+    methods
+        function hello(obj) % 实现抽象方法
+            disp("hello,world!")
+        end
+    end
+end
+```
+
+#### 禁止继承和重写
+
+可以使用 `Sealed` 关键词来禁止一个类被继承，例如
+
+```matlab
+classdef (Sealed) demo
+    ...
+end
+```
+
+可以使用 `Sealed` 关键词来禁止方法被派生类重写，例如
+
+```matlab
+classdef demo
+    methods(Sealed)
+        ...
+    end
+end
+```
 
 另见
 ----
